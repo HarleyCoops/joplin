@@ -160,7 +160,7 @@
     "compare-versions": "6.1.1",
     "countable": "3.0.1",
     "debounce": "1.2.1",
-    "electron": "35.5.1",
+    "electron": "39.8.5",
     "electron-builder": "24.13.3",
     "electron-updater": "6.6.0",
     "electron-window-state": "5.0.3",
@@ -208,7 +208,7 @@
   },
   "dependencies": {
     "@electron/remote": "2.1.2",
-    "@joplin/onenote-converter": "~3.4",
+    "@joplin/onenote-converter": "~3.6",
     "fs-extra": "11.2.0",
     "keytar": "7.9.0",
     "sqlite3": "5.1.6"
