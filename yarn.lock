@@ -9608,7 +9608,7 @@ __metadata:
     nodemailer: "npm:8.0.5"
     nodemon: "npm:3.1.9"
     pg: "npm:8.13.3"
-    pm2: "npm:7.0.0"
+    pm2: "npm:7.0.1"
     pretty-bytes: "npm:5.6.0"
     prettycron: "npm:0.10.0"
     query-string: "npm:7.1.3"
@@ -39883,9 +39883,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pm2@npm:7.0.0":
-  version: 7.0.0
-  resolution: "pm2@npm:7.0.0"
+"pm2@npm:7.0.1":
+  version: 7.0.1
+  resolution: "pm2@npm:7.0.1"
   dependencies:
     "@pm2/blessed": "npm:0.1.81"
     "@pm2/js-api": "npm:0.8.0"
@@ -39918,7 +39918,7 @@ __metadata:
     pm2-dev: bin/pm2-dev
     pm2-docker: bin/pm2-docker
     pm2-runtime: bin/pm2-runtime
-  checksum: 10/9b49e492828c2c1ec6b529624a59c2594b48e0dab821950ab87431caf6412fa9888135a10a3c2bf741f802ec4f0b86cd58cb906039cd5c9109d2df98d3fc57a5
+  checksum: 10/464fc669a6dd470d945c658323a5f3d6782fc341abc93b1af7f6d15f3cd61241f7973d43b37de56d9d4cdba8695eeb8ed201dc05f9a91b9a54b6ebc98c7ff5c2
   languageName: node
   linkType: hard
 
